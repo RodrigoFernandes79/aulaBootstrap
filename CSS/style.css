@@ -1,9 +1,20 @@
 .navbar {
     background-color: #E0FFFF;
+    font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 .quemsomos {
     text-align: center;
-    padding-top: 30px;
+    padding-bottom: 50px;
     background-color: #FFFFE0;
+    color: grey;
+    font-family: 'Dancing Script', cursive;
+}
+
+.margin {
+    margin-bottom: 3%;
+}
+
+.margin-top {
+    margin-top: 3%;
 }
