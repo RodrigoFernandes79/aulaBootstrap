@@ -5,6 +5,7 @@
 
 .quemsomos {
     text-align: center;
+    padding-top: 10px;
     padding-bottom: 50px;
     background-color: #FFFFE0;
     color: grey;
@@ -17,4 +18,12 @@
 
 .margin-top {
     margin-top: 3%;
+}
+
+.parceiros {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: #7FFFD4;
+    font-family: 'Dancing Script', cursive;
 }
