@@ -1,29 +1,56 @@
-.navbar {
-    background-color: #E0FFFF;
-    font-family: 'Fira Sans Condensed', sans-serif;
-}
-
-.quemsomos {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 50px;
-    background-color: #FFFFE0;
-    color: grey;
-    font-family: 'Dancing Script', cursive;
-}
-
-.margin {
-    margin-bottom: 3%;
-}
-
-.margin-top {
-    margin-top: 3%;
-}
-
-.parceiros {
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 50px;
-    background-color: #7FFFD4;
-    font-family: 'Dancing Script', cursive;
-}
+    .navbar {
+        background-color: #E0FFFF;
+        font-family: 'Fira Sans Condensed', sans-serif;
+    }
+    
+    .quemsomos {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 50px;
+        background-color: #FFFFE0;
+        color: grey;
+        font-family: 'Dancing Script', cursive;
+    }
+    
+    .margin {
+        margin-bottom: 3%;
+    }
+    
+    .margin-top {
+        margin-top: 3%;
+    }
+    
+    .parceiros {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 50px;
+        background-color: #7FFFD4;
+        font-family: 'Dancing Script', cursive;
+    }
+    
+    .servicos {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 50px;
+        background-color: #DCDCDC;
+        font-family: 'Dancing Script', cursive;
+        color: grey;
+    }
+    
+    p {
+        font-family: 'Fira Sans Condensed', sans-serif;
+        color: black;
+    }
+    
+    .footer {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        background-color: #1C1C1C;
+        text-align: end;
+        font-family: 'Fira Sans Condensed', sans-serif;
+    }
+    
+    .footer p {
+        color: white;
+        font-family: 'Dancing Script', cursive;
+    }
